@@ -27,12 +27,7 @@
     font-weight: 600;
     transition: all .3s ease;
 }
-.navlink-content ul li a:hover{
-    padding: 1rem 0;
-    border-top: solid 5px rgb(14, 209, 14);
-    border-bottom: solid 5px rgb(14, 209, 14);
-  
-}
+
 .navlink-content ul li a span{
     padding: 1rem 0;
     content: ' ';
